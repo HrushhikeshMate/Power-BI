@@ -1,0 +1,40 @@
+Bar Chart
+1. When to use it
+
+To compare values across different categories clearly.
+
+Great for showing differences or rankings between items.
+
+Useful when category labels are long or when you have many categories.
+
+2. How to use it — step-by-step
+
+Open Power BI Desktop and load your data.
+
+In the Report view, click the Bar chart icon in the Visualizations pane.
+
+Drag a categorical field (e.g., “Product Category”) into the Axis area.
+
+Drag a numerical field (e.g., “Sales Amount”) into the Values area.
+
+(Optional) Drag a field into Legend to show subcategories within bars.
+
+Customize the chart appearance in the Format pane if needed.
+
+3. Example
+
+Compare total sales for different product categories:
+
+Axis: Product Category (e.g., Electronics, Clothing)
+
+Values: Sales Amount
+
+Show count of customers by city:
+
+Axis: City
+
+Values: Number of Customers
+
+Tip / Pitfall
+
+Avoid adding too many categories; too many bars make the chart cluttered and hard to read. Use filters or slicers to narrow down data.
